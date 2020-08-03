@@ -6,6 +6,7 @@ import com.offcn.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 //*******************服务器端编辑了内容********
+//*******************************************小王修改
 import java.util.List;
 @Service
 public class UserServiceImpl implements UserService {
